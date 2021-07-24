@@ -1,0 +1,8 @@
+pewer-x-anas@mailto.plus
+
+curl 'https://g.api.mega.co.nz/cs?id=-2314574368&&domain=meganz&v=2&lang=en' \
+  -H 'Referer: https://mega.nz/' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  -H 'Content-Type: text/plain;charset=UTF-8' \
+  --data-raw '[{"a":"up","k":"X4Ezk2wsapo0mw7EJ8fEhg","ts":"FKdiWIUuywPNkKUQ2QbzpUwgwGQxPGEGdMVY5hpjrmU"}]' \
+  --compressed
